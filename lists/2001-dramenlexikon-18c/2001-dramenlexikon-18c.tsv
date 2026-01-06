@@ -1,7 +1,7 @@
 List Number	Author	Author Wikidata ID	Author GND ID	Title	Subtitle	Pages	Publication Date	Date of first performance	Location of first performance	Work Wikidata ID	Work Goodreads ID	Work GND ID	DraCor ID
 1	Anonym (Sebastian Joseph Krause)	http://www.wikidata.org/entity/Q60841955	https://d-nb.info/gnd/105765146X	Die Rebellion	Ein Vaterländisches Original-Schauspiel in vier Aufzügen	7–8	1791			http://www.wikidata.org/entity/Q137360819			
-2	Johann Friedrich Ernst Albrecht	http://www.wikidata.org/entity/Q124680	https://d-nb.info/gnd/118644386	Masaniello von Neapel	Original-Trauerspiel in fünf Aufzügen	8–9	1789						
-3	Sophie Albrecht	http://www.wikidata.org/entity/Q1330321	https://d-nb.info/gnd/116010010	Theresgen	Ein Schauspiel mit Gesang, in fünf Aufzügen	9–10	1781						
+2	Johann Friedrich Ernst Albrecht	http://www.wikidata.org/entity/Q124680	https://d-nb.info/gnd/118644386	Masaniello von Neapel	Original-Trauerspiel in fünf Aufzügen	8–9	1789			http://www.wikidata.org/entity/Q137543012	https://www.goodreads.com/work/editions/158914407		
+3	Sophie Albrecht	http://www.wikidata.org/entity/Q1330321	https://d-nb.info/gnd/116010010	Theresgen	Ein Schauspiel mit Gesang, in fünf Aufzügen	9–10	1781			http://www.wikidata.org/entity/Q137543102		https://d-nb.info/gnd/1334004099	https://dracor.org/id/ger000753
 4	Cornelius Hermann von Ayrenhoff	http://www.wikidata.org/entity/Q112838	https://d-nb.info/gnd/118869647	Aurelius oder Wettstreit der Großmuth	Ein Trauerspiel in fünf Aufzügen. Auf die Wienerische Schaubühne gebracht im Jahre 1766	10–11	1766	1766	Wien				
 5	Cornelius Hermann von Ayrenhoff	http://www.wikidata.org/entity/Q112838	https://d-nb.info/gnd/118869647	Die Freundschaft der Weiber nach der letzten Mode	Ein Lustspiel in zween Aufzügen. Auf das Wiener Theater gebracht im Jahre 1782	11–12	1782	1782	Wien				
 6	Cornelius Hermann von Ayrenhoff	http://www.wikidata.org/entity/Q112838	https://d-nb.info/gnd/118869647	Hermanns Tod	Ein Trauerspiel in Versen. Von einem k. k. Officier. Aufgeführt auf der k. k. Deutschen Schaubühne in Wien	12–13	1769	1768	Wien				
@@ -97,8 +97,8 @@ List Number	Author	Author Wikidata ID	Author GND ID	Title	Subtitle	Pages	Publica
 96	Salomon Hirzel	http://www.wikidata.org/entity/Q23889138	https://d-nb.info/gnd/116916699	Junius Brutus	Ein Trauerspiel, in fünf Aufzügen	129–130	1761						
 97	Friedrich Hölderlin	http://www.wikidata.org/entity/Q75889	https://d-nb.info/gnd/118551981	Der Tod des Empedokles	Fragmente eines Trauerspiels	130–132	1826	1916	Stuttgart	http://www.wikidata.org/entity/Q1197434		https://d-nb.info/gnd/4099237-8	
 98	Ludwig Ferdinand Huber	http://www.wikidata.org/entity/Q88699	https://d-nb.info/gnd/118554077	Das heimliche Gericht	Ein Trauerspiel	132–133	1790	1790-02-11	Mannheim	http://www.wikidata.org/entity/Q136784236			
-99	Ludwig Ferdinand Huber	http://www.wikidata.org/entity/Q88699	https://d-nb.info/gnd/118554077	Juliane	Ein Lustspiel in drei Aufzügen	134	1791						
-100	Ludwig Friedrich Hudemann	http://www.wikidata.org/entity/Q1874412	https://d-nb.info/gnd/100820042	Diocletianus der Christenverfolger	Ein Trauerspiel	135	1751						
+99	Ludwig Ferdinand Huber	http://www.wikidata.org/entity/Q88699	https://d-nb.info/gnd/118554077	Juliane	Ein Lustspiel in drei Aufzügen	134	1791			http://www.wikidata.org/entity/Q136822237			
+100	Ludwig Friedrich Hudemann	http://www.wikidata.org/entity/Q1874412	https://d-nb.info/gnd/100820042	Diocletianus der Christenverfolger	Ein Trauerspiel	135	1751			http://www.wikidata.org/entity/Q137710461			
 101	August Wilhelm Iffland	http://www.wikidata.org/entity/Q215115	https://d-nb.info/gnd/118555324	Figaro in Deutschland	Ein Lustspiel in fünf Aufzügen	136–137	1790	1789	Mannheim	http://www.wikidata.org/entity/Q51395031			https://dracor.org/id/ger000434
 102	August Wilhelm Iffland	http://www.wikidata.org/entity/Q215115	https://d-nb.info/gnd/118555324	Die Jäger	Ein ländliches Sittengemälde in fünf Aufzügen	137–138	1785	1785-03-09	Dürkheim	http://www.wikidata.org/entity/Q51394974		https://d-nb.info/gnd/1208777319	https://dracor.org/id/ger000156
 103	August Wilhelm Iffland	http://www.wikidata.org/entity/Q215115	https://d-nb.info/gnd/118555324	Die Kokarden	Ein Trauerspiel in fünf Aufzügen	138–139	1791	1791-10-14	Leipzig	http://www.wikidata.org/entity/Q137106271			
@@ -107,7 +107,7 @@ List Number	Author	Author Wikidata ID	Author GND ID	Title	Subtitle	Pages	Publica
 106	Katharina II., Kaiserin von Russland	http://www.wikidata.org/entity/Q36450	https://d-nb.info/gnd/118560565	Der Verblendete		140–142	1788	1786-02	St. Petersburg				
 107	Katharina II., Kaiserin von Russland	http://www.wikidata.org/entity/Q36450	https://d-nb.info/gnd/118560565	Der sibirische Schaman		140–142	1788	1786-07-24	St. Petersburg				
 108	Anton von Klein	http://www.wikidata.org/entity/Q27017076	https://d-nb.info/gnd/100303501	Kaiser Rudolf von Habsburg	Ein Trauerspiel in fünf Aufzügen	142–144	1787						
-109	Ewald Christian von Kleist	http://www.wikidata.org/entity/Q213747	https://d-nb.info/gnd/118723499	Seneka	Ein Trauerspiel	144–145	1758						
+109	Ewald Christian von Kleist	http://www.wikidata.org/entity/Q213747	https://d-nb.info/gnd/118723499	Seneka	Ein Trauerspiel	144–145	1758			http://www.wikidata.org/entity/Q137710523			https://dracor.org/id/ger000756
 110	Ernst August Friedrich Klingemann	http://www.wikidata.org/entity/Q68143	https://d-nb.info/gnd/118563300	Die Maske	Trauerspiel in 4 Aufzügen	145–146	1797	1797-09-08	Rudolstadt	http://www.wikidata.org/entity/Q133503122			
 111	Friedrich Maximilian Klinger	http://www.wikidata.org/entity/Q213549	https://d-nb.info/gnd/118563319	Damokles	Ein Trauerspiel in fünf Akten	146–147	1790						
 112	Friedrich Maximilian Klinger	http://www.wikidata.org/entity/Q213549	https://d-nb.info/gnd/118563319	Elfride	Eine Tragödie	147–148	1783						
