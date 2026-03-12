@@ -6,6 +6,7 @@ In this repository, we compile literary canons and other lists of literary works
 
 - 2001-dramenlexikon-18c
 - 2006-1001-books
+- 2017-kaisers-klassik
 - 2019-100-notable-books-in-ukrainian
 - 2024-spiegel-canon
 - 2024-nzz-canon
@@ -45,7 +46,8 @@ Publication years follow the [EDTF](https://www.loc.gov/standards/datetime/) (Ex
 These lists of literary works are freely available for your research and exploration under a [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/). We also welcome contributions, feel free to share your own lists with us.
 
 # Team
-- Jonas Rohe ([@Fera333](https://github.com/fera333))
 - Frank Fischer ([@lehkost](https://github.com/lehkost))
+- Ashley Lau ([@ashl-1](https://github.com/ashl-1))
+- Jonas Rohe ([@Fera333](https://github.com/fera333))
 - Lisa Poggel ([@lipogg](https://github.com/lipogg))
 - Viktor Illmer ([@v-ji](https://github.com/v-ji))
