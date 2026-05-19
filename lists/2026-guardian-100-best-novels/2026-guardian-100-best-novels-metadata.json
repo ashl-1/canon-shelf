@@ -1,0 +1,107 @@
+{
+  "@context": [
+    {
+      "@vocab": "https://schema.org/",
+      "prov": "http://www.w3.org/ns/prov#"
+    }
+  ],
+  "@type": "Dataset",
+  "name": "The Guardian: The 100 Best Novels of All Time",
+  "description": "This dataset is a canon list enriched in OpenRefine with Wikidata, GND and Goodreads IDs.",
+  "dateCreated": "2026-05-16",
+  "isAccessibleForFree": true,
+  "keywords": [
+    "canonicity",
+    "literary studies"
+  ],
+  "license": "https://creativecommons.org/publicdomain/zero/1.0",
+  "creator": [
+    {
+      "@type": "Person",
+      "givenName": "Ashley",
+      "familyName": "Lau",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Freie Universität Berlin",
+        "sameAs": "http://www.wikidata.org/entity/Q153006",
+        "url": "https://www.fu-berlin.de/"
+      }
+    },
+    {
+      "@type": "Person",
+      "givenName": "Jonah",
+      "familyName": "Lubin",
+      "sameAs": "https://orcid.org/0009-0000-7900-1994",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Harvard University",
+        "sameAs": "http://www.wikidata.org/entity/Q13371",
+        "url": "https://www.harvard.edu/"
+      }
+    },
+    {
+      "@type": "Person",
+      "givenName": "Frank",
+      "familyName": "Fischer",
+      "sameAs": "https://orcid.org/0000-0003-2419-6629",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Freie Universität Berlin",
+        "sameAs": "http://www.wikidata.org/entity/Q153006",
+        "url": "https://www.fu-berlin.de/"
+      }
+    }
+  ],
+  "sourceOrganization": {
+    "@type": "Organization",
+    "name": "Freie Universität Berlin"
+  },
+  "isBasedOn": {
+    "@type": "CreativeWork",
+    "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time",
+    "isAccessibleForFree": false,
+    "name": "The 100 Best Novels of All Time",
+    "publisher": {
+      "@type": "Organization",
+      "name": "The Guardian"
+    },
+    "isPartOf": {
+      "@type": "PublicationIssue",
+      "datePublished": "2026-05-16"
+    }
+  },
+  "prov:wasGeneratedBy": {
+    "@type": "prov:Activity",
+    "name": "Reconciliation (OpenRefine) and manual verification",
+    "prov:used": [
+      {
+        "@type": [
+          "prov:SoftwareAgent",
+          "SoftwareApplication"
+        ],
+        "name": "OpenRefine",
+        "url": "https://openrefine.org/",
+        "version": "3.10.0"
+      }
+    ],
+    "prov:wasAssociatedWith": [
+      {
+        "@type": [
+          "prov:Agent",
+          "Person"
+        ],
+        "givenName": "Ashley",
+        "familyName": "Lau"
+      },
+      {
+        "@type": [
+          "prov:Agent",
+          "Person"
+        ],
+        "givenName": "Frank",
+        "familyName": "Fischer",
+        "sameAs": "https://orcid.org/0000-0003-2419-6629"
+      }
+    ]
+  }
+}
