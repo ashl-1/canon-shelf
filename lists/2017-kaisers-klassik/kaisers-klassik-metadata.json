@@ -1,0 +1,110 @@
+{
+  "@context": [
+    {
+      "@vocab": "https://schema.org/",
+      "prov": "http://www.w3.org/ns/prov#"
+    }
+  ],
+  "@type": "Dataset",
+  "name": "Joachim Kaiser: Kaisers Klassik. 100 Meisterwerke der Musik",
+  "description": "This dataset is a canon list enriched in OpenRefine with Wikidata and GND IDs.",
+  "dateCreated": "2026-03-12",
+  "isAccessibleForFree": true,
+  "keywords": [
+    "canon list",
+    "classical music",
+    "musicology"
+  ],
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "creator": [
+    {
+      "@type": "Person",
+      "givenName": "Ashley",
+      "familyName": "Lau",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Freie Universität Berlin",
+        "sameAs": "http://www.wikidata.org/entity/Q153006",
+        "url": "https://www.fu-berlin.de/"
+      }
+    }
+  ],
+  "sourceOrganization": {
+    "@type": "Organization",
+    "name": "Freie Universität Berlin"
+  },
+  "isBasedOn": {
+    "@type": "Book",
+    "name": "Kaisers Klassik: 100 Meisterwerke der Musik",
+    "author": {
+      "@type": "Person",
+      "name": "Joachim Kaiser",
+      "sameAs": [
+        "http://www.wikidata.org/entity/Q90709",
+        "https://d-nb.info/gnd/119252287"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Wikidata",
+          "value": "Q90709",
+          "url": "http://www.wikidata.org/entity/Q90709"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "GND",
+          "value": "119252287",
+          "url": "https://d-nb.info/gnd/119252287"
+        }
+      ]
+    },
+    "isbn": "978-3-492-50097-5",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Piper Verlag"
+    },
+    "datePublished": "2017",
+    "inLanguage": "de"
+  },
+  "prov:wasGeneratedBy": {
+    "@type": "prov:Activity",
+    "name": "Reconciliation in OpenRefine and manual verification",
+    "prov:used": [
+      {
+        "@type": [
+          "prov:SoftwareAgent",
+          "SoftwareApplication"
+        ],
+        "name": "OpenRefine",
+        "url": "https://openrefine.org/",
+        "version": "3.9.5"
+      },
+      {
+        "@type": "Book",
+        "name": "Kaisers Klassik: 100 Meisterwerke der Musik",
+        "author": {
+          "@type": "Person",
+          "givenName": "Joachim",
+          "familyName": "Kaiser"
+        },
+        "isbn": "978-3-492-50097-5",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Piper Verlag"
+        },
+        "datePublished": "2017",
+        "inLanguage": "de"
+      }
+    ],
+    "prov:wasAssociatedWith": [
+      {
+        "@type": [
+          "prov:Agent",
+          "Person"
+        ],
+        "givenName": "Ashley",
+        "familyName": "Lau"
+      }
+    ]
+  }
+}
