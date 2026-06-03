@@ -3,6 +3,7 @@
 This canon was assembled by Robert McCrum for British daily newspaper »The Guardian« in 2015.
 
 # Links
+- [The 100 best novels written in English: the full list](https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list)
 - [The 100 best novels: from Bunyan’s pilgrim to Carey’s Ned Kelly](https://www.theguardian.com/books/2015/aug/16/100-best-novels-bunyan-to-carey-robert-mccrum)
 - [Wikipedia article](https://en.wikipedia.org/wiki/The_Guardian%27s_100_Best_Novels_Written_in_English)
 
