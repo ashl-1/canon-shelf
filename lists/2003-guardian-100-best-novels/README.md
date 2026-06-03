@@ -4,6 +4,7 @@ This canon of the »100 greatest novels of all time«, including non-English nov
 
 # Links
 - [The 100 greatest novels of all time: The list](https://www.theguardian.com/books/2003/oct/12/features.fiction)
+- [Introduction](https://www.theguardian.com/books/2003/oct/12/fiction.shopping) by Robert McCrum
 
 We transformed the canon into a machine-readable list and enriched it with metadata on authors and works (Author Wikidata ID, Author GND ID, Work Wikidata ID, Work Goodreads ID, Work GND ID).
 
