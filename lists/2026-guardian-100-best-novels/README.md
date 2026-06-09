@@ -6,6 +6,9 @@ This canon was published online by the British daily newspaper »The Guardian« 
 
 We transformed the canon into a machine-readable list and enriched it with metadata on authors and works (Author Wikidata ID, Author GND ID, Work Wikidata ID, Work Goodreads ID, Work GND ID).
 
+# Corrections
+The original list contained several errors, as noted by the Guardian: "This list was amended on 27 May 2026. A data processing error meant The Outsider by Albert Camus was omitted from an earlier version and enters at 71 and My Ántonia should have been at 78, not 100. The Go-Between is no longer on the list." See ["Corrections and clarifications"](https://www.theguardian.com/news/2026/may/23/corrections-and-clarifications). We updated our list accordingly.
+
 # Team
 - Ashley Lau ([@ashl-1](https://github.com/ashl-1))
 - Jonah Lubin ([@sreyfe](https://github.com/sreyfe))

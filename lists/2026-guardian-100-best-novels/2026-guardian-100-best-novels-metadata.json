@@ -7,14 +7,22 @@
   ],
   "@type": "Dataset",
   "name": "The Guardian: The 100 Best Novels of All Time",
-  "description": "This dataset is a canon list enriched in OpenRefine with Wikidata, GND and Goodreads IDs.",
+  "description": "Dataset derived from The Guardian's 2026 ranking of the 100 best novels of all time, enriched in OpenRefine with Wikidata, GND and Goodreads identifiers.",
   "dateCreated": "2026-05-16",
+  "dateModified": "2026-06-09",
   "isAccessibleForFree": true,
   "keywords": [
     "canonicity",
-    "literary studies"
+    "literary studies",
+    "novels",
+    "The Guardian",
+    "ranking",
+    "Wikidata",
+    "GND",
+    "Goodreads"
   ],
   "license": "https://creativecommons.org/publicdomain/zero/1.0",
+  "usageInfo": "The enriched dataset and reconciled identifiers are released under CC0. The Guardian source article and ranking remain attributable to The Guardian.",
   "creator": [
     {
       "@type": "Person",
@@ -52,22 +60,29 @@
       }
     }
   ],
-  "sourceOrganization": {
+  "publisher": {
     "@type": "Organization",
-    "name": "Freie Universität Berlin"
+    "name": "Freie Universität Berlin",
+    "sameAs": "http://www.wikidata.org/entity/Q153006",
+    "url": "https://www.fu-berlin.de/"
   },
   "isBasedOn": {
-    "@type": "CreativeWork",
+    "@type": ["CreativeWork", "WebPage"],
     "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time",
-    "isAccessibleForFree": false,
+    "isAccessibleForFree": true,
     "name": "The 100 Best Novels of All Time",
+    "datePublished": "2026-05-16",
+    "dateModified": "2026-05-27",
+    "version": "Guardian ranking as updated on 27 May 2026",
+    "description": "The source used for this dataset is the Guardian ranking in the version updated on 27 May 2026.",
     "publisher": {
       "@type": "Organization",
       "name": "The Guardian"
     },
     "isPartOf": {
-      "@type": "PublicationIssue",
-      "datePublished": "2026-05-16"
+      "@type": "WebSite",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/"
     }
   },
   "prov:wasGeneratedBy": {
