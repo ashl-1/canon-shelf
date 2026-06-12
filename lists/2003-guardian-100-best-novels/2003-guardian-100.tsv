@@ -5,14 +5,14 @@ List Number	Title	Work GND ID	Work Wikidata ID	Work Goodreads ID	volumes	Author	
 4	Gulliver's Travels	4099380-2	Q181488	2394716		Jonathan Swift	118620193	Q41166	male	1726-10-28T00:00:00Z	1726	English	English
 5	Tom Jones	4099180-5	Q248096	1350343		Henry Fielding	118532960	Q34190	male	1749-01-01T00:00:00Z	1749	English	English
 6	Clarissa	4138842-2	Q980534	2767990		Samuel Richardson	118600346	Q295941	male	1748-01-01T00:00:00Z	1748	English	English
-7	Tristram Shandy	4099376-0	Q1164083	2280279		Laurence Sterne	11861794X	Q218960	male	1759-01-01T00:00:00Z	1759	English	English
+7	Tristram Shandy	4099376-0	Q1164083	2280279		Laurence Sterne	11861794X	Q218960	male	1759-01-01T00:00:00Z	1759/1767	English	English
 8	Dangerous Liaisons	4220063-5	Q862050	3280025		Pierre Choderlos De Laclos	118568604	Q212476	male	1782-03-15T00:00:00Z	1782	French	French
 9	Emma	4277660-0	Q223880	3360164		Jane Austen	118505173	Q36322	female	1815-12-23T00:00:00Z	1815	English	English
 10	Frankenstein	4220200-0	Q150827	4836639		Mary Shelley	11879695X	Q47152	female	1818-01-01T00:00:00Z	1818	English	English
 11	Nightmare Abbey	4397842-3	Q4054406	1264375		Thomas Love Peacock	118790072	Q561408	male	1818-01-01T00:00:00Z	1818	English	English
 12	The Black Sheep	4674561-0	Q3212124	26646		Honoré De Balzac	118506358	Q9711	male	1843-01-01T00:00:00Z	1843	French	French
 13	The Charterhouse of Parma	4206853-8	Q1165714	1378789		Stendhal	118617648	Q502	male	1839-03-01T00:00Z;1839-01-01T00:00Z	1839	French	French
-14	The Count of Monte Cristo	4362352-9	Q191838	391568		Alexandre Dumas	118528068	Q38337	male	1844-01-01T00:00:00Z	1844	French	French
+14	The Count of Monte Cristo	4362352-9	Q191838	391568		Alexandre Dumas	118528068	Q38337	male	1844-01-01T00:00:00Z	1846	French	French
 15	Sybil	4705786-5	Q3506752	317649		Benjamin Disraeli	118526014	Q82006	male	1845-01-01T00:00:00Z	1845	English	English
 16	David Copperfield	4259699-3	Q189811	4711940		Charles Dickens	118525239	Q5686	male	1850-01-01T00:00:00Z	1850	English	English
 17	Wuthering Heights	4136057-6	Q202975	1565818		Emily Brontë	118638017	Q80137	female	1847-01-01T00:00:00Z	1847	British English	English
@@ -23,7 +23,7 @@ List Number	Title	Work GND ID	Work Wikidata ID	Work Goodreads ID	volumes	Author	
 22	Madame Bovary	4099183-0	Q193417	2766347		Gustave Flaubert	118533754	Q43444	male	1857-01-01T00:00:00Z	1857	French	French
 23	The Woman in White	4371325-7	Q1212672	1303710		Wilkie Collins	118638432	Q210740	male	1860-01-01T00:00:00Z	1860	English	English
 24	Alice's Adventures In Wonderland	4295896-9	Q92640	55548884		Lewis Carroll	11851928X	Q38082	male	1865-01-01T00:00:00Z	1865	British English	English
-25	Little Women	4368763-5	Q523076	3244642		Louisa M. Alcott	118644475	Q185696	female	1861-01-01T00:00:00Z	1861	English	English
+25	Little Women	4368763-5	Q523076	3244642		Louisa M. Alcott	118644475	Q185696	female	1861-01-01T00:00:00Z	{1868,1869}	English	English
 26	The Way We Live Now	4686911-6	Q7773866	2152551		Anthony Trollope	118624091	Q318399	male	1875-01-01T00:00:00Z	1875	British English	English
 27	Anna Karenina	4137252-9	Q147787	2507928		Leo Tolstoy	11864291X	Q7243	male	1877-01-01T00:00:00Z	1877	Russian	Russian
 28	Daniel Deronda	4376153-7	Q552238	313957		George Eliot	118529846	Q131333	female	1876-01-01T00:00:00Z	1876	English	English
