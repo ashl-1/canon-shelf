@@ -33,12 +33,12 @@ List Number	Title	Author	Work GND ID	Work Wikidata ID	Work Goodreads ID	Author G
 31	The Master and Margarita	Mikhail Bulgakov	4244970-4	Q188538	876183	118517376	Q835	male		1967-00-00T00:00:00Z;1928-00-00T00:00:00Z	1928	Russian	Russian
 31	The Poisonwood Bible	Barbara Kingsolver	4673665-7	Q7757621	810663	118013874	Q1264643	female		1998-01-01T00:00:00Z	1998	English	English
 31	The Remains of the Day	Kazuo Ishiguro	4465587-3	Q829934	3333111	119484978	Q272855	male		1989-05-01T00:00:00Z	1989	English	English
-35	A Confederacy of Dunces	John Kennedy Toole	4764332-8	Q627749	968084	123338220	Q313739	male		+1980-01-01T00:00:00Z	1980	English	English
+35	A Confederacy of Dunces	John Kennedy Toole	4764332-8	Q627749	968084	123338220	Q313739	male		1980-01-01T00:00:00Z	1980	English	English
 36	The Count of Monte Cristo	Alexandre Dumas and Auguste Maquet	4362352-9	Q191838	391568	118528068	Q38337	male		1844-00-00T00:00:00Z	1846	French	French
 37	A Prayer for Owen Meany	John Irving	4412824-1	Q13911	1734019	119049708	Q310379	male		1989-03-00T00:00:00Z	1989	English	English
 37	The Catcher in the Rye	JD Salinger	4120008-1	Q183883	3036731	118605054	Q79904	male		1951-07-16T00:00:00Z	1951	English	English
 39	Frankenstein	Mary Shelley	4220200-0	Q150827	4836639	11879695X	Q47152	female		1818-01-01T00:00:00Z	1818	English	English
-39	Stoner	John Williams	113309810X	Q7619282	1559207	1038675642	Q2077062	male		+1965-00-00T00:00:00Z	1965	English	English
+39	Stoner	John Williams	113309810X	Q7619282	1559207	1038675642	Q2077062	male		1965-00-00T00:00:00Z	1965	English	English
 41	A Fine Balance	Rohinton Mistry	4639035-2	Q48829	865827	120024845	Q732338	male		1995-01-01T00:00:00Z	1995	English	English
 41	A Suitable Boy	Vikram Seth	4414170-1	Q2918491	1651078	119331411	Q379762	male		1993-05-00T00:00:00Z	1993	English	English
 41	Heart of Darkness	Joseph Conrad	4132636-2	Q129778	2877220	118521861	Q82925	male		1899-01-01T00:00:00Z	1899	British English;English	English
@@ -47,10 +47,10 @@ List Number	Title	Author	Work GND ID	Work Wikidata ID	Work Goodreads ID	Author G
 46	Lolita	Vladimir Nabokov	4251287-6	Q127149	1268631	118586114	Q36591	male		1955-01-01T00:00:00Z	1955	English	English
 46	The Hitchhiker’s Guide to the Galaxy	Douglas Adams	4283976-2	Q3107329	3078186	119033364	Q42	male		1979-10-12T00:00:00Z	1979	British English;English	English
 46	Watership Down	Richard Adams		Q936801	1357456	120675285	Q313289	male		1972-11-01T00:00:00Z	1972	English	English
-49	A Tale of Two Cities	Charles Dickens	4293539-8	Q308918	2956372	118525239	Q5686	male		+1859-00-00T00:00:00Z	1859	English	English
+49	A Tale of Two Cities	Charles Dickens	4293539-8	Q308918	2956372	118525239	Q5686	male		1859-00-00T00:00:00Z	1859	English	English
 49	Atonement	Ian McEwan	4802066-7	Q306619	2307233	119252694	Q190379	male		2001-00-00T00:00:00Z	2001	English	English
 49	David Copperfield	Charles Dickens	4259699-3	Q189811	4711940	118525239	Q5686	male		1850-01-01T00:00:00Z	1850	English	English
-52	Birdsong	Sebastian Faulks	7694764-6	Q3405048	1093016	115588973	Q443055	male		+1993-09-16T00:00:00Z	1993	English	English
+52	Birdsong	Sebastian Faulks	7694764-6	Q3405048	1093016	115588973	Q443055	male		1993-09-16T00:00:00Z	1993	English	English
 52	Emma	Jane Austen	4277660-0	Q223880	3360164	118505173	Q36322	female		1815-12-23T00:00:00Z	1815	English	English
 52	Lonesome Dove	Larry McMurtry	7613478-7	Q973883	3281465	118992171	Q611672	male		1985-00-00T00:00:00Z	1985	English	English
 52	The God of Small Things	Arundhati Roy	4595927-4	Q378786	810135	115693424	Q212801	female		1997-00-00T00:00:00Z	1997	English	English
@@ -58,13 +58,13 @@ List Number	Title	Author	Work GND ID	Work Wikidata ID	Work Goodreads ID	Author G
 57	2666	Roberto Bolaño	1045769193	Q219437	3294830	120894076	Q297532	male		2004-00-00T00:00:00Z	2004	Spanish	Spanish
 57	Cloud Atlas	David Mitchell	1029094926	Q40205	1871423	12919302X	Q40479	male		2004-03-00T00:00:00Z	2004	English	English
 57	Never Let Me Go	Kazuo Ishiguro	7705755-7	Q951587	1499998	119484978	Q272855	male		2005-04-00T00:00:00Z	2005	English	English
-60	A Gentleman in Moscow	Amor Towles	1140251732	Q65048798	45743836	143776479	Q11685653	male		+2016-00-00T00:00:00Z	2016	English	English
+60	A Gentleman in Moscow	Amor Towles	1140251732	Q65048798	45743836	143776479	Q11685653	male		2016-00-00T00:00:00Z	2016	English	English
 60	Possession	AS Byatt	4472787-2	Q428581	2246190	118946382	Q232417	female		1990-00-00T00:00:00Z	1990	English	English
 62	Midnight’s Children	Salman Rushdie	4371195-9	Q625764	1024288	118873520	Q44306	male		1981-00-00T00:00:00Z	1981	English	English
 63	Demon Copperhead	Barbara Kingsolver		Q115526836	94935539	118013874	Q1264643	female		2022-10-18T00:00:00Z	2022	English	English
 63	Germinal	Émile Zola	4221251-0	Q137869	941651	118637223	Q504	male			1885	French	French
 63	Madame Bovary	Gustave Flaubert	4099183-0	Q193417	2766347	118533754	Q43444	male		1857-00-00T00:00:00Z	1857	French	French
-63	Neapolitan Quartet	Elena Ferrante		Q22981812		113749678	Q368127	female		2014-00-00T00:00:00Z	2014	Italian	Italian
+63	Neapolitan Quartet	Elena Ferrante		Q22981812		113749678	Q368127	female	4	2014-00-00T00:00:00Z	{2011,2012,2013,2014}	Italian	Italian
 63	Rebecca	Daphne du Maurier	4557830-8	Q1334940	46663	118528084	Q193357	female		1938-00-00T00:00:00Z	1938	English	English
 63	The Outsider	Albert Camus	4236814-5	Q163297	3324344	118518739	Q34670	male		1942-00-00T00:00:00Z	1942	French	French
 63	The Tin Drum	Günter Grass	4313438-5	Q899334	922581	118541579	Q6538	male		1959-00-00T00:00:00Z	1959	German	German
@@ -84,7 +84,7 @@ List Number	Title	Author	Work GND ID	Work Wikidata ID	Work Goodreads ID	Author G
 80	Jonathan Strange & Mr Norrell	Susanna Clarke	1259735850	Q1474920	3921305	130453927	Q232772	female		2004-09-08T00:00:00Z	2004	English	English
 80	Memoirs of Hadrian	Marguerite Yourcenar	4354263-3	Q1233795	1064574	118643460	Q163118	female		1951-01-01T00:00:00Z	1951	French	French
 80	Tess of the d’Urbervilles	Thomas Hardy	4132638-6	Q649409	3331021	118545930	Q132805	male		1891-00-00T00:00:00Z	1891	English	English
-80	The Life and Opinions of Tristram Shandy, Gentleman	Laurence Sterne	4099376-0	Q1164083	2280279	11861794X	Q218960	male		1759-01-01T00:00:00Z	1759/1767	English	English
+80	The Life and Opinions of Tristram Shandy, Gentleman	Laurence Sterne	4099376-0	Q1164083	2280279	11861794X	Q218960	male		1759-01-01T00:00:00Z	1759	English	English
 80	The Name of the Rose	Umberto Eco	4099176-3	Q172850	3138328	11852884X	Q12807	male		1980-00-00T00:00:00Z	1980	Italian	Italian
 80	The Picture of Dorian Gray	Oscar Wilde	4130762-8	Q82464	1858012	118632779	Q30875	male		1890-01-01T00:00Z;1891-01-01T00:00Z	{1890,1891}	English	English
 80	The Plague	Albert Camus	4131560-1	Q320372	2058116	118518739	Q34670	male		1947-00-00T00:00:00Z	1947	French	French
