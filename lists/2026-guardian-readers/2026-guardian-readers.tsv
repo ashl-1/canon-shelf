@@ -62,7 +62,7 @@ List Number	Title	Author	Work GND ID	Work Wikidata ID	Work Goodreads ID	Author G
 60	Possession	AS Byatt	4472787-2	Q428581	2246190	118946382	Q232417	female		1990-00-00T00:00:00Z	1990	English	English
 62	Midnight’s Children	Salman Rushdie	4371195-9	Q625764	1024288	118873520	Q44306	male		1981-00-00T00:00:00Z	1981	English	English
 63	Demon Copperhead	Barbara Kingsolver		Q115526836	94935539	118013874	Q1264643	female		2022-10-18T00:00:00Z	2022	English	English
-63	Germinal	Émile Zola	4221251-0	Q137869	941651	118637223	Q504	male			1885	French	French
+63	Germinal	Émile Zola	4221251-0	Q137869	941651	118637223	Q504	male		1885-00-00T00:00:00Z	1885	French	French
 63	Madame Bovary	Gustave Flaubert	4099183-0	Q193417	2766347	118533754	Q43444	male		1857-00-00T00:00:00Z	1857	French	French
 63	Neapolitan Quartet	Elena Ferrante		Q22981812		113749678	Q368127	female	4	2014-00-00T00:00:00Z	{2011,2012,2013,2014}	Italian	Italian
 63	Rebecca	Daphne du Maurier	4557830-8	Q1334940	46663	118528084	Q193357	female		1938-00-00T00:00:00Z	1938	English	English
@@ -75,7 +75,7 @@ List Number	Title	Author	Work GND ID	Work Wikidata ID	Work Goodreads ID	Author G
 73	The Unbearable Lightness of Being	Milan Kundera	4304713-0	Q917055	4489585	118568043	Q93166	male		1984-00-00T00:00:00Z	1984	Czech	Czech
 75	Brave New World	Aldous Huxley	4113976-8	Q191949	3204877	118555081	Q81447	male		1932-01-01T00:00:00Z	1932	English	English
 75	Brideshead Revisited	Evelyn Waugh	4243964-4	Q6992413	2952196	118765779	Q107002	male		1945-00-00T00:00:00Z	1945	English	English
-75	The Old Man and the Sea	Ernest Hemingway	4099230-5	Q26505	69741	118549030	Q23434	male				American English	English
+75	The Old Man and the Sea	Ernest Hemingway	4099230-5	Q26505	69741	118549030	Q23434	male			1952	American English	English
 75	The Sun Also Rises	Ernest Hemingway	4254325-3	Q501351	589497	118549030	Q23434	male		1926-10-22T00:00:00Z	1926	English	English
 75	Tinker Tailor Soldier Spy	John le Carré	1198513004	Q582811	2491780	119029375	Q209641	male		1974-06-01T00:00:00Z	1974	English	English
 80	Absalom, Absalom!	William Faulkner	4113528-3	Q2181982	1595511	118532081	Q38392	male		1936-00-00T00:00:00Z	1936	American English	English
