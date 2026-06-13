@@ -9,7 +9,7 @@ List Number	Title	Author	Work GND ID	Work Wikidata ID	Work Goodreads ID	Author G
 8	Catch-22	Joseph Heller	4229273-6	Q278208	814330	118815970	Q208101	male		1961-11-10T00:00:00Z	1961	English	English
 8	One Hundred Years of Solitude	Gabriel García Márquez	4123253-7	Q178869	3295655	118537601	Q5878	male		1967-00-00T00:00:00Z	1967	Spanish	Spanish
 10	Ulysses	James Joyce	4099246-9	Q6511	2368224	118558501	Q6882	male		1922-02-02T00:00:00Z	1922	English	English
-11	Anna Karenina	Leo Tolstoy	4137252-9	Q147787	2507928	11864291X	Q7243	male		1877-00-00T00:00:00Z	1877	Russian	Russian
+11	Anna Karenina	Leo Tolstoy	4137252-9	Q147787	2507928	11864291X	Q7243	male		1877-00-00T00:00:00Z	1878	Russian	Russian
 12	Moby-Dick	Herman Melville	4204518-6	Q174596	2409320	118580604	Q4985	male		1851-10-18T00:00Z;1851-11-14T00:00Z	1851	English	English
 14	Wolf Hall	Hilary Mantel	1215509472	Q2657795	6278354	123670039	Q465700	female		2009-04-30T00:00:00Z	2009	English	English
 14	Wuthering Heights	Emily Brontë	4136057-6	Q202975	1565818	118638017	Q80137	female		1847-00-00T00:00:00Z	1847	British English	English
@@ -20,17 +20,17 @@ List Number	Title	Author	Work GND ID	Work Wikidata ID	Work Goodreads ID	Author G
 19	Gravity’s Rainbow	Thomas Pynchon	4194590-6	Q1212160	866393	118597221	Q35155	male		1973-02-28T00:00:00Z	1973	English	English
 20	Beloved	Toni Morrison	4301577-3	Q971767	736076	118911627	Q72334	female		1987-09-00T00:00:00Z	1987	English	English
 21	Slaughterhouse-Five	Kurt Vonnegut	4475127-8	Q265954	1683562	118770306	Q49074	male		1969-03-00T00:00:00Z	1969	English	English
-21	The Brothers Karamazov	Fyodor Dostoevsky	4198690-8	Q183157	3393910	118527053	Q991	male		1880-01-01T00:00:00Z	1880	Russian	Russian
+21	The Brothers Karamazov	Fyodor Dostoevsky	4198690-8	Q183157	3393910	118527053	Q991	male		1880-01-01T00:00:00Z	{1879,1880}	Russian	Russian
 23	Don Quixote	Miguel de Cervantes	4113209-9	Q480	121842	11851993X	Q5682	male	2	1605-00-00T00:00:00Z;1615-00-00T00:00:00Z	{1605,1615}	Early Modern Spanish;Spanish	Spanish
 24	Les Misérables	Victor Hugo	4139746-0	Q180736	3208463	118554654	Q535	male		1862-01-01T00:00:00Z	1862	French	French
 25	Crime and Punishment	Fyodor Dostoevsky	4099168-4	Q165318	3393917	118527053	Q991	male		1866-00-00T00:00:00Z	1866	Russian	Russian
-26	Bleak House	Charles Dickens	4225150-3	Q883305	2960365	118525239	Q5686	male		1853-00-00T00:00:00Z	1853	English	English
+26	Bleak House	Charles Dickens	4225150-3	Q883305	2960365	118525239	Q5686	male		1853-00-00T00:00:00Z	{1852,1853}	English	English
 26	Jane Eyre	Charlotte Brontë	4119812-8	Q182961	2977639	118638009	Q127332	female		1847-00-00T00:00:00Z	1847	English	English
 28	Blood Meridian	Cormac McCarthy	4383795-5	Q581426	1065465	118873822	Q272610	male		1985-02-00T00:00:00Z	1985	English	English
 29	The Adventures of Huckleberry Finn	Mark Twain	4311319-9	Q215410	1835605	118624822	Q7245	male		1884-01-01T00:00:00Z	1884	English	English
 29	Great Expectations	Charles Dickens	4239628-1	Q219552	2612809	118525239	Q5686	male		1861-03-23T00:00:00Z	1861	English	English
 31	Infinite Jest	David Foster Wallace	7634667-5	Q1077445	3271542	122865251	Q313246	male		1996-02-01T00:00:00Z	1996	English	English
-31	The Master and Margarita	Mikhail Bulgakov	4244970-4	Q188538	876183	118517376	Q835	male		1967-00-00T00:00:00Z;1928-00-00T00:00:00Z	1928	Russian	Russian
+31	The Master and Margarita	Mikhail Bulgakov	4244970-4	Q188538	876183	118517376	Q835	male		1967-00-00T00:00:00Z;1928-00-00T00:00:00Z	{1966,1967}	Russian	Russian
 31	The Poisonwood Bible	Barbara Kingsolver	4673665-7	Q7757621	810663	118013874	Q1264643	female		1998-01-01T00:00:00Z	1998	English	English
 31	The Remains of the Day	Kazuo Ishiguro	4465587-3	Q829934	3333111	119484978	Q272855	male		1989-05-01T00:00:00Z	1989	English	English
 35	A Confederacy of Dunces	John Kennedy Toole	4764332-8	Q627749	968084	123338220	Q313739	male		1980-01-01T00:00:00Z	1980	English	English
@@ -71,7 +71,7 @@ List Number	Title	Author	Work GND ID	Work Wikidata ID	Work Goodreads ID	Author G
 70	Piranesi	Susanna Clarke		Q99434216	73586702	130453927	Q232772	female		2020-09-15T00:00:00Z	2020	English	English
 70	The Dispossessed	Ursula K Le Guin	4237614-2	Q467720	2684122	118923382	Q181659	female		1974-05-00T00:00:00Z	1974	English	English
 70	To the Lighthouse	Virginia Woolf	4204721-3	Q478016	1323448	118635174	Q40909	female		1927-00-00T00:00:00Z	1927	British English	English
-73	On the Road	Jack Kerouac	4398329-7	Q743180	1701188	118561561	Q160534	male		2003-04-22T00:00:00Z	2003	English	English
+73	On the Road	Jack Kerouac	4398329-7	Q743180	1701188	118561561	Q160534	male		2003-04-22T00:00:00Z	1957	English	English
 73	The Unbearable Lightness of Being	Milan Kundera	4304713-0	Q917055	4489585	118568043	Q93166	male		1984-00-00T00:00:00Z	1984	Czech	Czech
 75	Brave New World	Aldous Huxley	4113976-8	Q191949	3204877	118555081	Q81447	male		1932-01-01T00:00:00Z	1932	English	English
 75	Brideshead Revisited	Evelyn Waugh	4243964-4	Q6992413	2952196	118765779	Q107002	male		1945-00-00T00:00:00Z	1945	English	English

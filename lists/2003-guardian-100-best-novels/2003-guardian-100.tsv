@@ -14,7 +14,7 @@ List Number	Title	Work GND ID	Work Wikidata ID	Work Goodreads ID	volumes	Author	
 13	The Charterhouse of Parma	4206853-8	Q1165714	1378789		Stendhal	118617648	Q502	male	1839-03-01T00:00Z;1839-01-01T00:00Z	1839	French	French
 14	The Count of Monte Cristo	4362352-9	Q191838	391568		Alexandre Dumas	118528068	Q38337	male	1844-01-01T00:00:00Z	1846	French	French
 15	Sybil	4705786-5	Q3506752	317649		Benjamin Disraeli	118526014	Q82006	male	1845-01-01T00:00:00Z	1845	English	English
-16	David Copperfield	4259699-3	Q189811	4711940		Charles Dickens	118525239	Q5686	male	1850-01-01T00:00:00Z	1850	English	English
+16	David Copperfield	4259699-3	Q189811	4711940		Charles Dickens	118525239	Q5686	male	1850-01-01T00:00:00Z	{1849,1850}	English	English
 17	Wuthering Heights	4136057-6	Q202975	1565818		Emily Brontë	118638017	Q80137	female	1847-01-01T00:00:00Z	1847	British English	English
 18	Jane Eyre	4119812-8	Q182961	2977639		Charlotte Brontë	118638009	Q127332	female	1847-01-01T00:00:00Z	1847	English	English
 19	Vanity Fair	4225151-5	Q612836	1057468		William Makepeace Thackeray	118621483	Q167768	male	1848-01-01T00:00:00Z	1848	English	English
@@ -25,9 +25,9 @@ List Number	Title	Work GND ID	Work Wikidata ID	Work Goodreads ID	volumes	Author	
 24	Alice's Adventures In Wonderland	4295896-9	Q92640	55548884		Lewis Carroll	11851928X	Q38082	male	1865-01-01T00:00:00Z	1865	British English	English
 25	Little Women	4368763-5	Q523076	3244642		Louisa M. Alcott	118644475	Q185696	female	1861-01-01T00:00:00Z	{1868,1869}	English	English
 26	The Way We Live Now	4686911-6	Q7773866	2152551		Anthony Trollope	118624091	Q318399	male	1875-01-01T00:00:00Z	1875	British English	English
-27	Anna Karenina	4137252-9	Q147787	2507928		Leo Tolstoy	11864291X	Q7243	male	1877-01-01T00:00:00Z	1877	Russian	Russian
+27	Anna Karenina	4137252-9	Q147787	2507928		Leo Tolstoy	11864291X	Q7243	male	1877-01-01T00:00:00Z	1878	Russian	Russian
 28	Daniel Deronda	4376153-7	Q552238	313957		George Eliot	118529846	Q131333	female	1876-01-01T00:00:00Z	1876	English	English
-29	The Brothers Karamazov	4198690-8	Q183157	3393910		Fyodor Dostoevsky	118527053	Q991	male	1880-01-01T00:00:00Z	1880	Russian	Russian
+29	The Brothers Karamazov	4198690-8	Q183157	3393910		Fyodor Dostoevsky	118527053	Q991	male	1880-01-01T00:00:00Z	{1879,1880}	Russian	Russian
 30	The Portrait of a Lady	4251250-5	Q861017	1434368		Henry James	118556835	Q170509	male	1881-01-01T00:00:00Z	1881	English	English
 31	Huckleberry Finn	4311319-9	Q215410	1835605		Mark Twain	118624822	Q7245	male	1884-01-01T00:00:00Z	1884	English	English
 32	The Strange Case of Dr Jekyll and Mr Hyde	4390920-6	Q217352	3164921		Robert Louis Stevenson	118753711	Q1512	male	1886-01-01T00:00:00Z	1886	English	English
