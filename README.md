@@ -15,6 +15,7 @@ In this repository, we compile literary canons and other lists of literary works
 - 2025-spiegel-canon-international
 - 2025-zeit-canon
 - 2026-guardian-100-best-novels
+- 2026-guardian-readers-top-100-novels
 
 # Co-authorship, series titles, time format
 

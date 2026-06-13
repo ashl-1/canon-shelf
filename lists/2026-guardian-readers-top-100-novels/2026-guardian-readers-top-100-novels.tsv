@@ -64,7 +64,7 @@ List Number	Title	Author	Work GND ID	Work Wikidata ID	Work Goodreads ID	Author G
 63	Demon Copperhead	Barbara Kingsolver		Q115526836	94935539	118013874	Q1264643	female		2022-10-18T00:00:00Z	2022	English	English
 63	Germinal	Émile Zola	4221251-0	Q137869	941651	118637223	Q504	male		1885-00-00T00:00:00Z	1885	French	French
 63	Madame Bovary	Gustave Flaubert	4099183-0	Q193417	2766347	118533754	Q43444	male		1857-00-00T00:00:00Z	1857	French	French
-63	Neapolitan Quartet	Elena Ferrante		Q22981812		113749678	Q368127	female	4	2014-00-00T00:00:00Z	{2011,2012,2013,2014}	Italian	Italian
+63	Neapolitan Quartet	Elena Ferrante	1113211431	Q22981812	46858867	113749678	Q368127	female	4	2014-00-00T00:00:00Z	{2011,2012,2013,2014}	Italian	Italian
 63	Rebecca	Daphne du Maurier	4557830-8	Q1334940	46663	118528084	Q193357	female		1938-00-00T00:00:00Z	1938	English	English
 63	The Outsider	Albert Camus	4236814-5	Q163297	3324344	118518739	Q34670	male		1942-00-00T00:00:00Z	1942	French	French
 63	The Tin Drum	Günter Grass	4313438-5	Q899334	922581	118541579	Q6538	male		1959-00-00T00:00:00Z	1959	German	German
@@ -84,7 +84,7 @@ List Number	Title	Author	Work GND ID	Work Wikidata ID	Work Goodreads ID	Author G
 80	Jonathan Strange & Mr Norrell	Susanna Clarke	1259735850	Q1474920	3921305	130453927	Q232772	female		2004-09-08T00:00:00Z	2004	English	English
 80	Memoirs of Hadrian	Marguerite Yourcenar	4354263-3	Q1233795	1064574	118643460	Q163118	female		1951-01-01T00:00:00Z	1951	French	French
 80	Tess of the d’Urbervilles	Thomas Hardy	4132638-6	Q649409	3331021	118545930	Q132805	male		1891-00-00T00:00:00Z	1891	English	English
-80	The Life and Opinions of Tristram Shandy, Gentleman	Laurence Sterne	4099376-0	Q1164083	2280279	11861794X	Q218960	male		1759-01-01T00:00:00Z	1759	English	English
+80	The Life and Opinions of Tristram Shandy, Gentleman	Laurence Sterne	4099376-0	Q1164083	2280279	11861794X	Q218960	male		1759-01-01T00:00:00Z	1759/1767	English	English
 80	The Name of the Rose	Umberto Eco	4099176-3	Q172850	3138328	11852884X	Q12807	male		1980-00-00T00:00:00Z	1980	Italian	Italian
 80	The Picture of Dorian Gray	Oscar Wilde	4130762-8	Q82464	1858012	118632779	Q30875	male		1890-01-01T00:00Z;1891-01-01T00:00Z	{1890,1891}	English	English
 80	The Plague	Albert Camus	4131560-1	Q320372	2058116	118518739	Q34670	male		1947-00-00T00:00:00Z	1947	French	French
