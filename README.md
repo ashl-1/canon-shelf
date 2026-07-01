@@ -8,6 +8,7 @@ In this repository, we compile literary canons and other lists of literary works
 - 2003-guardian-100-best-novels
 - 2006-1001-books
 - 2015-guardian-100-best-novels
+- 2015-guardian-readers-alternative-list
 - 2017-kaisers-klassik
 - 2019-100-notable-books-in-ukrainian
 - 2024-spiegel-canon
